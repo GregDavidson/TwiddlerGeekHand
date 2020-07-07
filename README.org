@@ -87,13 +87,14 @@ There's a fairly standard format for listing Chord to Character Mappings, based 
 | Thumb Modifier(s) | Index Finger Position | Middle Finger Position | Ring Finger Position | Pinky Position |
 
 Thumb Possibilities
-+ O = None,    N = Numeric, A = Alt, C = Control, S = Shift
++ O = None, N = Numeric, A = Alt, C = Control, S = Shift
 + with practice it's possible to overlap adjacent modifier keys to produce
   + NA = Numeric + Alt, AC = Alt + Control, CS = Control + Shift
   + other combinations of modifiers need help from the other hand
  
-Finger possibilities: L = Left Column Key, M = Middle Column Key, R = Right Column Key
-- or a - if that finger is not in use
+Finger possibilities
+- L = Left Column Key, M = Middle Column Key, R = Right Column Key
+- or O if that finger is not in use
 
 Examples from the Geekhand List:
 - O OORO a
