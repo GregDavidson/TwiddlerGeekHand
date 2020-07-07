@@ -4,7 +4,7 @@ The Geekhand Chords were inspired by the [[https://forum.tekgear.com/t/cool-hand
 try to complete the goal of CoolHand by making the numeric mode chords more
 complete and natural (to a Geek) and with a few other tweaks.
 	
-This READE is written for for any Geek, whether they are an experienced Twiddler
+This README is written for any Geek, whether they are an experienced Twiddler
 user or they've never seen a Twiddler, so it is a little bit verbose.
 
 TL;DR here are the files you need:
