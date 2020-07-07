@@ -12,9 +12,10 @@ TL;DR here are the files you need:
 - [[geekhand-fancier.pdf][PDF of the GeekHand Pictorial Reference]]
 - GeekHand Config file [[twiddler.cfg]]
 
-I've only produced GeekHand for left-hand Twidder users, so if you use your
+I've only produced GeekHand for left-hand Twidder users; if you use your
 Twiddler with your right hand, you may want to mirror some or all of these
-settings. I would be happy to host the result if you send me a pull request!
+settings. I would be happy to host the result and credit you if you send me a
+pull request!
 
 ** Introducing the Twiddler
 
