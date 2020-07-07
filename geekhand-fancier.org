@@ -1,0 +1,56 @@
+#+OPTIONS: toc:nil
+#+LATEX_HEADER: \usepackage[top=.5in,bottom=0in]{geometry}
+#+LATEX_HEADER: \pagestyle{empty}
+
+*  Geek Hand with No Modifier Keys
+
+| o  | e  | i  | | | w | m | c | | | y | x | b | | | - | - | - | | | - | - | - | | | k | l | j |
+| r  | t  | n  | | | - | - | - | | | y | x | b | | | u | d | f | | | v | g | z | | | - | - | - |
+| s  | h  | a  | | | - | - | - | | | y | x | b | | | u | d | f | | | v | g | z | | | k | l | j |
+| sp | nl | bs | | | w | m | c | | | - | - | - | | | - | - | - | | | v | g | z | | | - | - | - |
+
+| - | $\oplus$ | - |  |  | -  | $\oplus$ | -  |  |  | - | *.* | ` |   |   | - | - | - |   |   | + | = | I_ |
+| - | -        | - |  |  | ;_ | -        | ,_ |  |  | - | *.* | ` |   |   | - | - | - |   |   | + | = | I_ |
+| - | -        | - |  |  | -  | -        | -  |  |  | - | -   | - |   |   | @ | : | " |   |   | - | - | -  |
+| p | -        | q |  |  | -  | -        | -  |  |  | - | -   | - |   |   | @ | : | " |   |   | + | = | I_ |
+
+
+| - | $\oplus$ | - | | | - | $\oplus$ | - | | | - | $\oplus$ | - | | | - | $\oplus$ | - | | | \ | - | / |
+| - | -        | - | | | [ | -        | ] | | | - | -        | - | | | - | $\oplus$ | - | | | - | - | - |
+| ( | -        | ) | | | [ | -        | ] | | | < | -        | > | | | { | -        | } | | | - | - | - |
+| - | -        | - | | | - | -        | - | | | < | -        | > | | | - | -        | - | | | / | - | \ |
+
+| you | the | Z |   |   | - | __and_ | -    |   |   | tion_ | -     | - |   |   | $\Lsh$ | $\Rightarrow$ | ing_ |
+| -   | -   | - |   |   | - | -    | __and_ |   |   | -     | tion_ | - |   |   | $\Lsh$ | $\Rightarrow$ | ing_ |
+| you | the | Z |   |   | - | -    | __and_ |   |   | -     | tion_ | - |   |   | $\Lsh$ | $\Rightarrow$ | ing_ |
+| you | the | Z |   |   | - | -    | __and_ |   |   | -     | tion_ | - |   |   | $\Lsh$ | $\Rightarrow$ | ing_ |
+
+| $\curvearrowleft$ | -                 | - |   |   | $\hat{b}$ | -        | $\hat{c}$ |   |   | - | -       | - |   |   | $\curlywedge$ | - | &             |   |   | - | -        | - |   |   | -      | -        | -   |
+| -                 | $\curvearrowleft$ | - |   |   | -         | -        | -         |   |   | ~ | $\vert$ | ` |   |   | -             | - | -             |   |   | ? | -        | ! |   |   | -      | -        | -   |
+| -                 | $\curvearrowleft$ | - |   |   | -         | -        | -         |   |   | - | -       | - |   |   | &             | - | $\curlywedge$ |   |   | - | $\oplus$ | - |   |   | -      | $\oplus$ | -   |
+| -                 | -                 | - |   |   | -         | $\oplus$ | -         |   |   | ~ | $\vert$ | ` |   |   | -             | - | -             |   |   | - | -        | - |   |   | \(\$\) | -        | *^* |
+
+
+| * | - | - |   |   | -             |               | $\curlywedge$ |   |   | $\curlywedge$ | -        | # |   |   | - | -        | - |
+| - | * | - |   |   | -             | $\curlywedge$ | -             |   |   | -             | $\oplus$ | - |   |   | - | $\oplus$         | - |
+| - | - | * |   |   | $\curlywedge$ | -             | -             |   |   | -             | -        | - |   |   | _  | - | %  |
+| - | - | - |   |   | -             | -             | -             |   |   | -             | -        | - |   |   | - | -        | - |
+
+* Geek Hand with Numeric Modifier Key
+
+Numbers and function keys combine binary-style\\
+Numbers 1 to 11 plus 0000, Function keys F1 to F12
+
+| F1 | 1 | $\uparrow$    |   | F3 |  3 | $\Uparrow$   |   | F11 | 11 | - |   | -   | 0 | $\Leftarrow$ |   | DEL | -  |               |   |
+| F2 | 2 | $\downarrow$  |   | F3 |  3 | $\Uparrow$   |   | F11 | 11 | - |   | -   | 0 | $\Leftarrow$ |   | DEL | BS | $\Rightarrow$ |   |
+| F4 | 4 | $\rightarrow$ |   | -  | SP | $\Downarrow$ |   | -   |  - | - |   | F12 | 0 | $\Leftarrow$ |   | DEL | BS | $\Rightarrow$ |   |
+| F8 | 8 | $\leftarrow$  |   | -  | SP | $\Downarrow$ |   | F11 | 11 | - |   | F12 | 0 | -            |   | DEL | BS | $\Rightarrow$ |   |
+\noindent
+Remember NumLock in case you get stuck in NumLock mode! \\
+Same as Carriage Return but with Numeric Modifier Key held down \\
+The rest are Keypad versions of regular characters
+
+| NumLock | -       | - |   | - | *,* | $=$ |   |   | - | - | *   |   | - | - | $+$ |   |
+| -       | NumLock | - |   | - | -   | -   |   |   | - | - | $-$ |   | - | - | $/$ |   |
+| -       | NumLock | - |   | - | *,* | $=$ |   |   | - | - | $-$ |   | - | - | $+$ |   |
+| -       | -       | - |   | - | *,* | $=$ |   |   | - | - | *   |   | - | - | $/$ |
