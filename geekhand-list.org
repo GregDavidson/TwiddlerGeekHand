@@ -29,8 +29,8 @@ MOD CHORD CODES
 - N OOLL <F12>
 ** KP Symbols
 MOD CHORD CODES
-- N OOMM <Space> ???
-- N MOMM <, > ???
+- N OOMM <KP-Space>
+- N MOMM <KP-,>
 - N RORR <KP-=>
 - N ORRO <KP-->
 - N OROR <KP-/>
