@@ -43,7 +43,7 @@ Numbers 1 to 11 plus 0000, Function keys F1 to F12
 
 | F1 | 1 | $\uparrow$    |   | F3 |  3 | $\Uparrow$   |   | F11 | 11 | - |   | -   | 0 | $\Leftarrow$ |   | DEL | -  |               |   |
 | F2 | 2 | $\downarrow$  |   | F3 |  3 | $\Uparrow$   |   | F11 | 11 | - |   | -   | 0 | $\Leftarrow$ |   | DEL | BS | $\Rightarrow$ |   |
-| F4 | 4 | $\rightarrow$ |   | -  | SP | $\Downarrow$ |   | -   |  - | - |   | F12 | 0 | $\Leftarrow$ |   | DEL | BS | $\Rightarrow$ |   |
+| F4 | 4 | 𔕄 |   | -  | SP | $\Downarrow$ |   | -   |  - | - |   | F12 | 0 | $\Leftarrow$ |   | DEL | BS | $\Rightarrow$ |   |
 | F8 | 8 | $\leftarrow$  |   | -  | SP | $\Downarrow$ |   | F11 | 11 | - |   | F12 | 0 | -            |   | DEL | BS | $\Rightarrow$ |   |
 \noindent
 Remember NumLock in case you get stuck in NumLock mode! \\
