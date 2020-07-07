@@ -125,32 +125,32 @@ Hmm, there seem to be some conventions in the pictures, let's explain:
 
 Here are all of the single key Chords in GeekHand:
 
-| o  | e  | i  | <-- index fnger  |
-| r  | t  | n  | <-- middle fnger |
-| s  | h  | a  | <-- ring fnger   |
+| o  | e  | i  | <-- index finger |
+| r  | t  | n  | <-- middle finger |
+| s  | h  | a  | <-- ring finger |
 | sp | nl | bs | <-- pinky        |
 
 Here are some two-finger chords in Geekhand:
 
-| w | m | c |   |   | - | - | - |   |   | k | l | j |   |   | <-- index fnger  |
-| - | - | - |   |   | u | d | f |   |   | - | - | - |   |   | <-- middle fnger |
-| - | - | - |   |   | u | d | f |   |   | k | l | j |   |   | <-- ring fnger   |
+| w | m | c |   |   | - | - | - |   |   | k | l | j |   |   | <-- index finger |
+| - | - | - |   |   | u | d | f |   |   | - | - | - |   |   | <-- middle finger |
+| - | - | - |   |   | u | d | f |   |   | k | l | j |   |   | <-- ring finger |
 | w | m | c |   |   | - | - | - |   |   | - | - | - |   |   | <-- pinky        |
 
 Here are some three-finger chords in Geekhand:
 
-| y | x | b |   |   | - | - | - |   |   | <-- index fnger  |
-| y | x | b |   |   | v | g | z |   |   | <-- middle fnger |
-| y | x | b |   |   | v | g | z |   |   | <-- ring fnger   |
+| y | x | b |   |   | - | - | - |   |   | <-- index finger |
+| y | x | b |   |   | v | g | z |   |   | <-- middle finger |
+| y | x | b |   |   | v | g | z |   |   | <-- ring finger |
 | - | - | - |   |   | v | g | z |   |   | <-- pinky        |
 
 A few conventions are used in the pictorials
 - The circled + sign means "required for either"
 - A trailing _ means "plus a space"
 
-| - | (+) | - |   |   | -  | (+) | -  |   |   | <-- index fnger  |
-| - | -   | - |   |   | ;_ | -   | ,_ |   |   | <-- middle fnger |
-| - | -   | - |   |   | -  | -   | -  |   |   | <-- ring fnger   |
+| - | (+) | - |   |   | -  | (+) | -  |   |   | <-- index finger |
+| - | -   | - |   |   | ;_ | -   | ,_ |   |   | <-- middle finger |
+| - | -   | - |   |   | -  | -   | -  |   |   | <-- ring finger |
 | p | -   | q |   |   | -  | -   | -  |   |   | <-- pinky        |
 
 so these two pictures mean:
