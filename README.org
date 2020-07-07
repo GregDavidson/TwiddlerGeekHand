@@ -150,7 +150,7 @@ so these two pictures mean:
 | O         | M L - -          | ; SPACE      |
 | O         | M R - -          | , SPACE      |
 
-- The funny "tent" symbol means "no character here yet"
+- The dagger symbol means "no character here yet"
 - Arrow symbols indicate vector keys
 - Double arrow symbols indicate home/end, page-up and page-down
 
