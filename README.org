@@ -1,4 +1,4 @@
-* The GeekHand Twiddler3 Chord Map
+* GeekHand Twiddler Chord Map
 
 The Geekhand Chords were inspired by the [[https://forum.tekgear.com/t/cool-hand-a-beginner-friendly-chord-map][CoolHand Chord Map]]. The GeekHand Chords
 try to complete the goal of CoolHand by making the numeric mode chords more
