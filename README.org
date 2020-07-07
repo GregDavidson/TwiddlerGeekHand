@@ -148,7 +148,7 @@ A few conventions are used in the pictorials
 - The circled + sign means "required for either"
 - A trailing _ means "plus a space"
 
-| - | (+) | - |   |   | -  | (+) | -  |   |   | <-- index finger |
+| - | (++) | - |   |   | -  | (++) | -  |   |   | <-- index finger |
 | - | -   | - |   |   | ;_ | -   | ,_ |   |   | <-- middle finger |
 | - | -   | - |   |   | -  | -   | -  |   |   | <-- ring finger |
 | p | -   | q |   |   | -  | -   | -  |   |   | <-- pinky        |
