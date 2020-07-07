@@ -2,7 +2,7 @@
 #+LATEX_HEADER: \usepackage[top=.5in,bottom=0in]{geometry}
 #+LATEX_HEADER: \pagestyle{empty}
 
-*  Geek Hand with No Modifier Keys
+* Geek Hand with No Modifier Keys
 
 | o  | e  | i  | | | w | m | c | | | y | x | b | | | - | - | - | | | - | - | - | | | k | l | j |
 | r  | t  | n  | | | - | - | - | | | y | x | b | | | u | d | f | | | v | g | z | | | - | - | - |
@@ -25,15 +25,15 @@
 | you | the | Z |   |   | - | -    | __and_ |   |   | -     | tion_ | - |   |   | $\Lsh$ | $\Rightarrow$ | ing_ |
 | you | the | Z |   |   | - | -    | __and_ |   |   | -     | tion_ | - |   |   | $\Lsh$ | $\Rightarrow$ | ing_ |
 
-| $\curvearrowleft$ | -                 | - |   |   | $\hat{b}$ | -        | $\hat{c}$ |   |   | - | -       | - |   |   | $\curlywedge$ | - | &             |   |   | - | -        | - |   |   | -      | -        | -   |
+| $\curvearrowleft$ | -                 | - |   |   | $\hat{b}$ | -        | $\hat{c}$ |   |   | - | -       | - |   |   | \dag | - | &             |   |   | - | -        | - |   |   | -      | -        | -   |
 | -                 | $\curvearrowleft$ | - |   |   | -         | -        | -         |   |   | ~ | $\vert$ | ` |   |   | -             | - | -             |   |   | ? | -        | ! |   |   | -      | -        | -   |
-| -                 | $\curvearrowleft$ | - |   |   | -         | -        | -         |   |   | - | -       | - |   |   | &             | - | $\curlywedge$ |   |   | - | $\oplus$ | - |   |   | -      | $\oplus$ | -   |
+| -                 | $\curvearrowleft$ | - |   |   | -         | -        | -         |   |   | - | -       | - |   |   | &             | - | \dag |   |   | - | $\oplus$ | - |   |   | -      | $\oplus$ | -   |
 | -                 | -                 | - |   |   | -         | $\oplus$ | -         |   |   | ~ | $\vert$ | ` |   |   | -             | - | -             |   |   | - | -        | - |   |   | \(\$\) | -        | *^* |
 
 
-| * | - | - |   |   | -             |               | $\curlywedge$ |   |   | $\curlywedge$ | -        | # |   |   | - | -        | - |
-| - | * | - |   |   | -             | $\curlywedge$ | -             |   |   | -             | $\oplus$ | - |   |   | - | $\oplus$         | - |
-| - | - | * |   |   | $\curlywedge$ | -             | -             |   |   | -             | -        | - |   |   | _  | - | %  |
+| * | - | - |   |   | -             |               | \dag |   |   | \dag | -        | # |   |   | - | -        | - |
+| - | * | - |   |   | -             | \dag | -             |   |   | -             | $\oplus$ | - |   |   | - | $\oplus$         | - |
+| - | - | * |   |   | \dag | -             | -             |   |   | -             | -        | - |   |   | _  | - | %  |
 | - | - | - |   |   | -             | -             | -             |   |   | -             | -        | - |   |   | - | -        | - |
 
 * Geek Hand with Numeric Modifier Key
