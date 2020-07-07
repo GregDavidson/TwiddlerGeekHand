@@ -13,8 +13,9 @@ TL;DR here are the files you need:
 - GeekHand Config file [[twiddler.cfg]]
 
 WARNING: The arrow symbols in the pdf are NOT showing up when I look at the PDF
-in GitHub. You will need to download the PDF and look at it with a proper PDF
-viewer to follow along with this README!
+in GitHub. You will need to download the PDF and use proper PDF viewer, or maybe
+not: When I use the GitHub download button in Firefox, Firefox correcty renders
+the PDF!
 
 I've only produced GeekHand for left-hand Twidder users; if you use your
 Twiddler with your right hand, you may want to mirror some or all of these
